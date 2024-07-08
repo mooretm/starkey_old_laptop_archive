@@ -1,0 +1,8 @@
+# Ignore audio files
+audio/
+
+lastParams.pickle
+
+data/
+
+__pycache__
